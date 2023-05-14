@@ -121,6 +121,7 @@ main .descricao{
     padding-right: 10px;
 } 
 .email{
+    font-family: 'Ubuntu', sans-serif;
     text-align: center;
    list-style-type: none;
    text-align: right;}
